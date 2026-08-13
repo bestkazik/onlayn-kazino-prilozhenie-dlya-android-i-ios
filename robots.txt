@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://bestkazik.github.io/onlayn-kazino-prilozhenie-dlya-android-i-ios/sitemap.xml
